@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">internetPing</string>
+    <string name="ping">ping</string>
+    <string name="digit_0_ip">Digit 0 IP</string>
+</resources>
